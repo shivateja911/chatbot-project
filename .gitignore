@@ -1,0 +1,13 @@
+.env
+.venv/
+runtime/
+evals/results/
+__pycache__/
+.env.*
+!.env.example
+.streamlit/secrets.toml
+.claude/
+.DS_Store
+*.log
+*.pem
+*.key

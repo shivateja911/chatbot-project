@@ -1,0 +1,7 @@
+[
+  {"service": "Email", "status": "operational", "note": ""},
+  {"service": "VPN", "status": "operational", "note": ""},
+  {"service": "Printing", "status": "degraded", "note": "Badge release is slow on floor 3. IT is working on it. No ticket needed."},
+  {"service": "Wi-Fi", "status": "operational", "note": ""},
+  {"service": "Single sign-on", "status": "operational", "note": ""}
+]
